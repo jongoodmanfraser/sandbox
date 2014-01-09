@@ -15,62 +15,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "block-inline-1.html",
-			"settings":
-			{
-				"buffer_size": 378,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "block-inline-7.html",
-			"settings":
-			{
-				"buffer_size": 495,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "block-inline-6.html",
-			"settings":
-			{
-				"buffer_size": 4345,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "block-inline-5.html",
-			"settings":
-			{
-				"buffer_size": 509,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "block-inline-4.html",
-			"settings":
-			{
-				"buffer_size": 407,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "block-inline-3.html",
-			"settings":
-			{
-				"buffer_size": 372,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "block-inline-2.html",
-			"settings":
-			{
-				"buffer_size": 333,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -83,7 +27,7 @@
 	},
 	"console":
 	{
-		"height": 0.0
+		"height": 209.0
 	},
 	"distraction_free":
 	{
@@ -96,13 +40,18 @@
 	},
 	"file_history":
 	[
+		"/Users/naamakatz/Desktop/Web Design/Sandbox/CSS/jf blockp -inline 1",
+		"/Users/naamakatz/Desktop/Web Design/Sandbox/CSS/block-inline.sublime-project",
 		"/Users/naamakatz/Desktop/Web Design/Sandbox/CSS/block-inline-7.html",
 		"/Users/naamakatz/Desktop/Web Design/Sandbox/CSS/block-inline-6.html",
+		"/Users/naamakatz/Desktop/Web Design/Sandbox/CSS/block-inline-4.  1:8:14html.html",
+		"/Users/naamakatz/Desktop/Web Design/Sandbox/CSS/block-inline-3.html",
+		"/Users/naamakatz/Desktop/Web Design/Sandbox/CSS/1:5:13 block-inline-2.html",
+		"/Users/naamakatz/Desktop/Web Design/1:5:13 exper.html",
+		"/Users/naamakatz/Desktop/Web Design/Sandbox/CSS/block-inline-1.html",
 		"/Users/naamakatz/Desktop/Web Design/Sandbox/CSS/block-inline-5.html",
 		"/Users/naamakatz/Desktop/Web Design/Sandbox/CSS/block-inline-4.html",
-		"/Users/naamakatz/Desktop/Web Design/Sandbox/CSS/block-inline-3.html",
 		"/Users/naamakatz/Desktop/Web Design/Sandbox/CSS/block-inline-2.html",
-		"/Users/naamakatz/Desktop/Web Design/Sandbox/CSS/block-inline-1.html",
 		"/Users/naamakatz/Desktop/Web Design/exp[er.html",
 		"/Users/naamakatz/Desktop/Web Design/Jon 1b.html",
 		"/Users/naamakatz/Desktop/Web Design/Jon 2.html",
@@ -153,198 +102,8 @@
 	"groups":
 	[
 		{
-			"selected": 6,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "block-inline-1.html",
-					"settings":
-					{
-						"buffer_size": 378,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "block-inline-7.html",
-					"settings":
-					{
-						"buffer_size": 495,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "block-inline-6.html",
-					"settings":
-					{
-						"buffer_size": 4345,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "block-inline-5.html",
-					"settings":
-					{
-						"buffer_size": 509,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "block-inline-4.html",
-					"settings":
-					{
-						"buffer_size": 407,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "block-inline-3.html",
-					"settings":
-					{
-						"buffer_size": 372,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "block-inline-2.html",
-					"settings":
-					{
-						"buffer_size": 333,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								150,
-								150
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -409,5 +168,5 @@
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 150.0,
-	"status_bar_visible": false
+	"status_bar_visible": true
 }
