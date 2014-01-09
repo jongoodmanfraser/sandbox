@@ -3,7 +3,7 @@
 		<head>
 			<style>
 				div{
-				border: 5px solid;
+				border: 14px solid;
 				background: red;
 				}
 				p {background: green;
