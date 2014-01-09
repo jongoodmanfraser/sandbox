@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<style>
+				div{
+				border: 5px solid;
+				background: red;
+				}
+				p {background: green;
+					border: 2px solid;}
+			</style>
+		</head>
+	<body>
+		<p>like this</p>
+	</body>
+
+</html>	
